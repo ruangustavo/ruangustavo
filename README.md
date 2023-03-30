@@ -1,17 +1,3 @@
-<!--- Header section -->
-<img
-  src="https://capsule-render.vercel.app/api?color=0:4B34AA,100:9A77F8&type=waving"
-  width="100%"
-/>
-
-<!--- Name and role -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=700&duration=3500&pause=1000&color=7355D0&center=true&vCenter=true&multiline=true&repeat=false&height=60&lines=Ruan+Gustavo;Back-end+developer"
-    alt="Typing SVG"
-  />
-</p>
-
 <!-- About me section -->
 <h2>💡About me</h2>
 <p>
@@ -80,9 +66,3 @@
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-5035b1?style=for-the-badge&logo=bootstrap&logoColor=white"alt="Bootstrap Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Styled--Components-5035b1?style=for-the-badge&logo=styled-components&logoColor=white"alt="Styled Components Badge"/></a>
 </details>
-
-<!--- Footer section -->
-<img
-  src="https://capsule-render.vercel.app/api?color=0:4B34AA,100:9A77F8&type=waving&section=footer"
-  width="100%"
-/>
